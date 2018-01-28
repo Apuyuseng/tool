@@ -3,4 +3,4 @@
 
 ### 桌面刷新火车票
 
-![](/Apuyuseng/tool/blob/master/img/train.png?raw=true)
+![](https://raw.githubusercontent.com/Apuyuseng/tool/master/img/train.png)
